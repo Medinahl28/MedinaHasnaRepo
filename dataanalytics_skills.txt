@@ -1,0 +1,7 @@
+Skills for Data Analytics
+
+- Math and Statistics
+- Excel
+- Power BI
+- Python/R
+- Communication
